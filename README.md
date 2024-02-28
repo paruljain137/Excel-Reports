@@ -1,33 +1,33 @@
 ## Sales Report :
 
 
-- **Project objective:** 
+**Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/paruljain137/Excel-Reports/blob/main/Customer%20Performance%20Report.pdf)_
-    **2.** Division Report for analyzing _[net sales by division](https://github.com/paruljain137/Excel-Reports/blob/main/Division%20Report.pdf)_
+  **1.** Create a _[customer performance report](https://github.com/paruljain137/Excel-Reports/blob/main/Customer%20Performance%20Report.pdf)_
+  
+  **2.** Division Report for analyzing _[net sales by division](https://github.com/paruljain137/Excel-Reports/blob/main/Division%20Report.pdf)_
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+  **3.** _[Gross Margin% by quarter](https://github.com/paruljain137/Excel-Reports/blob/main/GM%25%20BY%20Quarter.pdf)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+  **4.** Conduct a comprehensive comparison between _[market performance and sales targets with P/L](https://github.com/paruljain137/Excel-Reports/blob/main/Market%20Performance%20Report.pdf)_
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+  **5.** Create Profit and Loss (P&L) reports by _[Fiscal Months](https://github.com/paruljain137/Excel-Reports/blob/main/Profit%20%26%20Loss%20By%20Fiscal%20Month.pdf)_ & _[Year](https://github.com/paruljain137/Excel-Reports/blob/main/Profit%20%26%20Loss%20By%20Fiscal%20Year.pdf)_
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+   **6.** Create a finance report _[P/L by Market](https://github.com/paruljain137/Excel-Reports/blob/main/Profit%20%26%20Loss%20By%20Market.pdf)_
+
+   **7.** Importance of analyzing data, supporting decision-making by _[Project Priority Matrix](https://github.com/paruljain137/Excel-Reports/blob/main/Project_Priority%20Matrix.pdf)_
+
+   **8.** to determine about discount by this tool _[Scenario Planning Tool](https://github.com/paruljain137/Excel-Reports/blob/main/Scenario%20Planning%20tool.pdf)_
+
+   **9.** For analyzing the consumer's priority in different regions and divisions by_[Top & Bottom Products](https://github.com/paruljain137/Excel-Reports/blob/main/Top%20%26%20Bottom%20Products.pdf)_& sales data by _[Top 10 Products](https://github.com/paruljain137/Excel-Reports/blob/main/Top%2010%20Products.pdf)_& products performance by _[Top 5 Country](https://github.com/paruljain137/Excel-Reports/blob/main/Top%205%20Country.pdf)_
+   
+  
+   **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+
+   **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
-## Finance Report :
 
-- **Project objective:** 
-
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
-
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
-
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
@@ -42,4 +42,4 @@
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Developing a systematic approach to devising a report-building plan.
